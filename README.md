@@ -19,7 +19,7 @@ Docker Swarm Stacks is a collection of pre-configured stack files designed to si
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/felipefontoura/docker-swarm-stacks.git
+   git clone https://github.com/brunopirz/docker-swarm-stacks.git
    cd docker-swarm-stacks
    ```
 

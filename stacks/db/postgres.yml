@@ -10,7 +10,7 @@ services:
     volumes:
       - postgres-data:/var/lib/postgresql/data
     environment:
-      - POSTGRES_PASSWORD=secret
+      - POSTGRES_PASSWORD=A1b2f5D7!A1b2f5D7!
       - POSTGRES_INITDB_ARGS="--auth-host=scram-sha-256"
     deploy:
       mode: replicated
